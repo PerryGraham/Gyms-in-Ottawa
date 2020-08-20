@@ -1,4 +1,4 @@
-# Where is the best place to open a gym in Ottawa, and what type is most prefered ?
+### Where is the best place to open a gym in Ottawa, and what type is most prefered ?
 
 ##### Here is what the data shows:
 
